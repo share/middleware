@@ -1,0 +1,23 @@
+{
+  "name": "livedb-middleware",
+  "version": "0.4.0",
+  "description": "Middleware for the livedb API",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "mocha mocha --compilers coffee:coffee-script/register --reporter spec test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/share/livedb-middleware.git"
+  },
+  "keywords": [
+    "livedb",
+    "middleware"
+  ],
+  "author": "Joseph Gentle <me@josephg.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/share/livedb-middleware/issues"
+  },
+  "homepage": "https://github.com/share/livedb-middleware"
+}
